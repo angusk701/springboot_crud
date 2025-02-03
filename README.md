@@ -14,7 +14,7 @@ This Customer Management API is a simple Spring Boot application designed for ma
 
 ## Prerequisites
 
-Before you can run this application, you'll need to have the following installed:
+Before you can run this application, you'll need to have the following prerequisites installed:
 - Java JDK 11 or later
 - Maven 3.6 or later (if building from source)
 - An instance of a relational database (e.g., MySQL, PostgreSQL) running locally or remotely with the necessary schema and credentials
